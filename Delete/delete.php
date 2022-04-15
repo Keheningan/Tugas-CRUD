@@ -1,6 +1,6 @@
-<h2>Data Mahasiswa</h2>
-
 <?php
+include "../connect.php";
+
 if(isset($_POST['proses'])) {
 
     $NRP = $_POST['NRP'];
@@ -13,7 +13,7 @@ if(isset($_POST['proses'])) {
     }
 echo "<script>
     alert('Data Berhasil Dihapus');
-    location.href='../view.php';
+    location.href='../index.php';
 </script>";
 }
 ?>

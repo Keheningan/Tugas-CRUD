@@ -1,7 +1,7 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
-<h1 class="text-center my-3 text-uppercase">Tambah Data Mahasiswa</h1>
+<h1 class="text-center my-3 text-uppercase">Tambah Data Produk</h1>
 
 <form method="post" action="save.php" class="container-fluid">
     <table class="table table-dark table-hover">
