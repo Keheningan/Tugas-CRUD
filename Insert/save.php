@@ -26,7 +26,7 @@ if(isset($_POST['save'])){
     <script>
 
     alert('Data Berhasil Disimpan'); 
-    location.href='../view.php';
+    location.href='../index.php';
     
     </script>";
 }
