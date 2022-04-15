@@ -28,6 +28,6 @@ for($i=0; $i<$amount; $i++){
 
 echo "<script>
     alert('Data Berhasil Di Update');
-    location.href='../view.php';
+    location.href='../index.php';
 </script>";
 ?>
